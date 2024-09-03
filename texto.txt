@@ -1,0 +1,8 @@
+Makefile é um tipo de arquivo que contém um conjunto de instruções para compilar e ligar um programa.
+
+I2C é um protocolo utilizado para comunicar periféricos na placa mãe. Ele permite que dispositivos diferentes se comuniquem e troquem dados de forma rápida e eficiente. No caso da FPGA é utilizado para conectar com o acelerômetro.
+
+https://pt.wikipedia.org/wiki/Makefile
+https://terminalroot.com.br/2019/12/como-criar-um-makefile.html
+
+https://embarcados.com.br/comunicacao-i2c/#:~:text=A%20comunica%C3%A7%C3%A3o%20I2C%20%C3%A9%20um%20protocolo%20amplamente%20utilizado%20em%20muitos,de%20muitos%20sistemas%20eletr%C3%B4nicos%20modernos.
