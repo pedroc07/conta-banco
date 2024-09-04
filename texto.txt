@@ -6,3 +6,28 @@ Na comunicação I2C, um dispositivos é designado como mestre e os demais como 
 
 https://embarcados.com.br/comunicacao-i2c/#:~:text=A%20comunica%C3%A7%C3%A3o%20I2C%20%C3%A9%20um%20protocolo%20amplamente%20utilizado%20em%20muitos,de%20muitos%20sistemas%20eletr%C3%B4nicos%20modernos.
 
+HPS
+
+Hard Processor System (HPS), Sistema de Processamento Rígido em português é um processador ARM com seus periféicos e memória. É integrado à FPGA através de um backbone de alta largura de banda.
+
+https://drive.google.com/file/d/1HzYtd1LwzVC8eDobg0ZXE0eLhyUrIYYE/view
+
+Acelerômetro
+
+O acelerômetro é um dispositivo utilizado para medir a aceleração própria de um objetivo. Pode ser utilizado para detectar o movimento e a inclinação em dispositivos eletrônicos, sendo utilizado para girar o conteúdo exibido na tela de um smartphone por exemplo.
+
+https://pt.wikipedia.org/wiki/Aceler%C3%B4metro
+
+VGA
+
+Video Graphics Array (VGA) é um padrão gráfico desenvolvido pela IBM em 1986, foi a base de monitores, placas de vídeo e dispositivos gráficos por muito tempo. O padrão pode ser identificado pelo seu conector composto por 3 fileiras de 5 pinos. 
+
+https://tecnoblog.net/responde/o-que-e-vga/
+
+ARM
+
+ARM é um conjunto de arquiteturas de processadores produzido pela empresa britânica Arm Holdings, sua maior vantagem é a versatilidade, funcionando bem tanto em sistemas complexos quanto em dispositivos móveis, sendo esse seu maior mercado atualmente.
+
+Devido a simplicidade de funcionamento dos processadores ARM, eles consomem menos energia e geram menos calor que os processadores da família x86, o que os torna mais vantajosos em dispositivos móveis que precisam de baterias.
+
+https://tecnoblog.net/responde/qual-e-a-diferenca-entre-processador-arm-e-x86/
